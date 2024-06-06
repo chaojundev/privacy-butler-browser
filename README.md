@@ -1,2 +1,0 @@
-# privacy-butler-browser
-web
